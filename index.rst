@@ -94,12 +94,15 @@ Frequently Asked Questions (FAQs)
 ---------------------------------
 
 **Q1: Can I use Dell drivers on non-Dell devices?**  
+
 No. Dell drivers are optimized specifically for Dell hardware.
 
 **Q2: How often should I update my Dell drivers?**  
+
 Check for updates every couple of months or when you face hardware/software issues.
 
 **Q3: Is it safe to use Dell’s automatic detection tool?**  
+
 Yes. Dell’s detection tool is secure and provided directly by Dell.
 
 Conclusion
